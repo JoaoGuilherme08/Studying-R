@@ -40,5 +40,5 @@ print(vetor_inteiro[1])
 # Soma de vetores
 vetor1 <- c(1, 2, 3)
 vetor2 <- c(4, 5, 6)
-vetor_soma <- vetor1 + vetor2 
+vetor_soma <- vetor1 + vetor2
 print(vetor_soma)
